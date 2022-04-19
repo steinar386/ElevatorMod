@@ -1,0 +1,14 @@
+{
+    "__comment": "Zlasher's Elevator Datapack",
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:crafting_elevator_block"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crafting:elevator_block_function"
+    }
+}
