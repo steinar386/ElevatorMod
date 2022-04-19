@@ -1,4 +1,4 @@
-# Version 1.0
+# Version 1.1
 # Zlasher 20(c)22
 # https://www.planetminecraft.com/member/zlasher/
 
